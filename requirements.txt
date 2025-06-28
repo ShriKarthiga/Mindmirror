@@ -39,7 +39,6 @@ pipwin==0.5.2
 platformdirs==4.3.8
 playsound==1.2.2
 pooch==1.8.2
-PyAudio==0.2.14
 pycparser==2.22
 pyjsparser==2.7.1
 pyparsing==3.2.3
