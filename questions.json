@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What activity makes you lose track of time?",
+    "options": {
+      "A": { "text": "Helping others solve problems", "type": "Need" },
+      "B": { "text": "Designing or creating something new", "type": "Love" },
+      "C": { "text": "Teaching or mentoring", "type": "Good" },
+      "D": { "text": "Working on paid freelance gigs", "type": "Paid" }
+    }
+  },
+  {
+    "question": "What compliments do you often receive?",
+    "options": {
+      "A": { "text": "You're so creative!", "type": "Love" },
+      "B": { "text": "You're great at this!", "type": "Good" },
+      "C": { "text": "You make a difference", "type": "Need" },
+      "D": { "text": "You’re so professional", "type": "Paid" }
+    }
+  },
+  {
+    "question": "What do you do naturally without being told?",
+    "options": {
+      "A": { "text": "Express yourself through art or words", "type": "Love" },
+      "B": { "text": "Organize, fix, or solve things", "type": "Good" },
+      "C": { "text": "Listen and give advice", "type": "Need" },
+      "D": { "text": "Pitch ideas for business", "type": "Paid" }
+    }
+  },
+  {
+    "question": "Which role fits you best?",
+    "options": {
+      "A": { "text": "Visionary creator", "type": "Love" },
+      "B": { "text": "Skilled expert", "type": "Good" },
+      "C": { "text": "Community builder", "type": "Need" },
+      "D": { "text": "Entrepreneur", "type": "Paid" }
+    }
+  },
+  {
+    "question": "What would you do even if you weren't paid?",
+    "options": {
+      "A": { "text": "Write, draw, or play music", "type": "Love" },
+      "B": { "text": "Build or fix complex things", "type": "Good" },
+      "C": { "text": "Volunteer or mentor", "type": "Need" },
+      "D": { "text": "Start a side hustle", "type": "Paid" }
+    }
+  }
+]
